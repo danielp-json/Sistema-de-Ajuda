@@ -26,7 +26,7 @@ Aplicativo de cronograma e avisos com modo acadêmico. Funciona em **Arch Linux*
 
 ```bash
 # Clone o repositório
-git clone https://github.com/danielaraujop/Sistema-de-Ajuda.git
+git clone https://github.com/danielp-json/Sistema-de-Ajuda.git
 cd Sistema-de-Ajuda
 
 # Execute diretamente
